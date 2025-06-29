@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/thermal-poetry-printer/static/css/main.f855e6bc.css",
-    "main.js": "/thermal-poetry-printer/static/js/main.83bfde82.js",
+    "main.js": "/thermal-poetry-printer/static/js/main.93a6e10e.js",
     "static/js/453.a9d0b029.chunk.js": "/thermal-poetry-printer/static/js/453.a9d0b029.chunk.js",
-    "static/media/logo.svg": "/thermal-poetry-printer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/thermal-poetry-printer/index.html",
     "main.f855e6bc.css.map": "/thermal-poetry-printer/static/css/main.f855e6bc.css.map",
-    "main.83bfde82.js.map": "/thermal-poetry-printer/static/js/main.83bfde82.js.map",
+    "main.93a6e10e.js.map": "/thermal-poetry-printer/static/js/main.93a6e10e.js.map",
     "453.a9d0b029.chunk.js.map": "/thermal-poetry-printer/static/js/453.a9d0b029.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.83bfde82.js"
+    "static/js/main.93a6e10e.js"
   ]
 }
