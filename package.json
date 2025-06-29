@@ -1,6 +1,7 @@
 {
   "name": "thermal-poetry-printer",
   "version": "0.1.0",
+  "homepage": "https://trifunfun.github.io/thermal-poetry-printer/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
